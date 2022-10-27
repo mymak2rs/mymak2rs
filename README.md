@@ -1,5 +1,6 @@
 <div align=center><h1>👾 Junki Lee 👾</h1>
 Hallym Univ. Big Data<br>
+Contact : mymak2rs@gmail.com<br>
 <a href="https://mymak2rs.github.io/"><img src="https://img.shields.io/github/followers/mymak2rs?label=mymak2rs&style=social"/></a>
 </div>
 
